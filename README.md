@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Abhinav Reddy Enugala
 
 # 💫 About Me:
 - 🔭 I’m currently working on strengthening my problem-solving skills in Python<br>- 🌱 I’m currently learning MERN Stack<br>- 👯 I’m looking to collaborate on MERN Stack<br>- 🤔 I’m looking for help with Advanced MERN & Node.js (authentication, microservices, deployment, scalability, and real-time apps)<br>- 💬 Ask me about JavaScript, React, Python DSA<br>- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abhinav-reddy-enugala)[![Gmail](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:abhinavreddyenugala@gmail.com)<br><br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I enjoy turning complex problems into simple solutions and love experimenting with new tech stacks.
